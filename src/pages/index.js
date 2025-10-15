@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Home() {
   return (
     <div>
-      Hello BhautikaA!!!!!!!!!!!.{" "}
+      Hello BhautikaAAAA!!!!!!!!!!!.{" "}
       <Link href="/about">
         About
       </Link>
